@@ -51,7 +51,7 @@ Key features include:
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_preview_1.png)
 
 ---
 
